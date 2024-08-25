@@ -15,7 +15,7 @@ print(
     'Script buff data Cloudflare WARP+. By MeowIce \n'
 )
 print("[I] Buff GB Cloudfalre WARP+")
-referrer = input("[#] Vui long nhap WARP+ ID (KHONG PHAI KEY !!)/Please enter your WARP+ ID (NOT THE KEY):")
+referrer = input("[#] Vui long nhap WARP+ ID (KHONG PHAI KEY !!)/Please enter your WARP+ ID (bc5bd795-821e-4ba4-9570-798348d0ef1c):")
 
 
 def progressBar():
